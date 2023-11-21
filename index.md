@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Transformers
 
-[Project 1 Title](/sample_page)
+[Named Entity Recognition with DistilBERT](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
