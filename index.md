@@ -4,7 +4,7 @@
 
 ### Transformers
 
-[Named Entity Recognition with DistilBERT](/sample_page)
+[Named Entity Recognition with DistilBERT](https://dennis-hauser.github.io/transformer-finetuning-ner/)
 <img src="images/DALL·E 2023-11-21 19.11.40 - A futuristic and abstract image representing the concept of fine-tuning DistilBERT for Named Entity Extraction, without any text. The image features a.png"/>
 
 ---
